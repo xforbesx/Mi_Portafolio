@@ -1,2 +1,2 @@
 # Mi_Portafolio
-Sitio web de mi portafolio 
+Practica de mi portafolio digital propio
